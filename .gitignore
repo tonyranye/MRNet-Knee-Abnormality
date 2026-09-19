@@ -1,0 +1,6 @@
+data/
+*.npy
+
+__pycache__/
+*.pt
+.venv/
