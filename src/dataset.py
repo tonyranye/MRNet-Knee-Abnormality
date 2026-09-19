@@ -9,6 +9,6 @@ from torch.utils.data import Dataset
 
 class MRNetDataser(Dataset):
     def __init__(self, data_dir, split, view, task):
-        
+        ...
     
 
